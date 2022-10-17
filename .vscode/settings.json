@@ -1,3 +1,9 @@
 {
-  "git.autofetch": true
+  "git.autofetch": true,
+  "html.format.indentInnerHtml": true,
+  "html.format.indentHandlebars": true,
+  "git.allowNoVerifyCommit": false,
+  "git.allowForcePush": false,
+  "python.linting.flake8Enabled": false,
+  "editor.formatOnPaste": false
 }
